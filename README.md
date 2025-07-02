@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://rajsriv.github.io/glass-carousel-tunes/
 
 ## How can I edit this code?
 
