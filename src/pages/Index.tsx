@@ -1,7 +1,7 @@
-import { MusicPlayer } from '@/components/MusicPlayer';
+import { SpotifyLayout } from '@/components/SpotifyLayout';
 
 const Index = () => {
-  return <MusicPlayer />;
+  return <SpotifyLayout />;
 };
 
 export default Index;
